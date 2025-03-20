@@ -1,4 +1,6 @@
 # YouTube_Player_Edit
+![image](https://github.com/user-attachments/assets/1ec215f3-2998-48af-93d4-5dc3181b3199)
+
 YouTube Player edited with Github Copilot...
 #
 "https://freeprogram.tistory.com/52" 의 프리웨어 프로그램. 소스코드가 공개되어있고 2025년 기준으로 작동이 되지 않았기 때문에 수정을 해봤습니다. 
